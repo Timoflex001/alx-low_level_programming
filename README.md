@@ -1,1 +1,1 @@
-This repo is for C programming.
+This repository Contains C programming practice Solutions.
