@@ -4,7 +4,7 @@
  * print_sign - main function
  * @n: character to compare
  *
- * return: 1 if positive, 0 if zero, -1 if negative
+ * Return: 1 if positive, 0 if zero, -1 if negative
  *
  */
 
