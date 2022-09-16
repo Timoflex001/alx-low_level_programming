@@ -9,4 +9,12 @@
 
 int _isupper(int c);
 
+/**
+ * _isupper - determines uppercase or not
+ * @c: character to check
+ * Return: returns boolean
+ */
+
+int _isdigit(int c);
+
 #endif
