@@ -31,4 +31,13 @@ char *_memcpy(char *dest, char *src, unsigned int n);
  */
 
 char *_strchr(char *s, char c);
+
+/**
+ * _strspan - length of prefix substring
+ * @s: string to go through
+ * @accept: accept bytes
+ * Return: returns unsigned int value
+ */
+
+unsigned int _strspn(char *s, char *accept);
 #endif
