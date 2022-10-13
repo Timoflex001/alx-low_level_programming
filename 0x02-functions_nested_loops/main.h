@@ -54,4 +54,24 @@ int print_sign(int n);
 
 int _abs(int);
 
+/**
+ * print_last_digit - prints digit last
+ * @int: integer to input
+ * Return: last digit of integer
+ */
+
+int print_last_digit(int);
+
+/**
+ * jack_bauer - jack bauer gooo
+ */
+
+void jack_bauer(void);
+
+/**
+ * times_table - times this up
+ */
+
+void times_table(void);
+
 #endif
